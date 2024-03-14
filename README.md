@@ -2,7 +2,7 @@
 ### Me chamo July Gabriella Sá!
 
 - 💻 Atualmente trabalho com desenvolvimento full stack, com foco no front-end
-- 📖 Estou estudando Vue, me apromirando em JavaScript e constantemente aprendendo sobre as novidades da tecnologia 💜
+- 📖 Estou estudando Vue, banco de dados MySQL, me apromirando em JavaScript e constantemente aprendendo sobre as novidades da tecnologia 💜
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulieGab&hide=contribs,prs&show_icons=true&theme=radical)
 
