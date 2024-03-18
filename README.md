@@ -4,10 +4,9 @@
 - 💻 Atualmente trabalho com desenvolvimento full stack, com foco no front-end
 - 📖 Estou estudando Vue, banco de dados MySQL, me apromirando em JavaScript e constantemente aprendendo sobre as novidades da tecnologia 💜
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulieGab&hide=contribs,prs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulieGab&hide=contribs,prs&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulieGab&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulieGab&layout=compact&theme=onedark)
 
 ##
 #### 🤹🏻‍♀️ Skills
@@ -18,6 +17,7 @@
   <img align="center" alt="Julie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Julie-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="Julie-mySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
   
